@@ -44,6 +44,8 @@ Elements of Programming Interviews JavaScript Solutions
 - [ ] 5.19 - Rotate a 2D array
 - [ ] 5.20 - Compute rows in Pascal's Triangle
 
+#### More Chapters coming soon...
+
 <br>
 
 ## Test
